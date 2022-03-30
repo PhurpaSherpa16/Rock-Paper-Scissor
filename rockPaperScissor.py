@@ -1,6 +1,6 @@
 import random
 from termcolor import colored
-win, loose, playagain, score= 0,0,0,0
+win, score= 0,0
 print(colored("-------------Wecome to Rock, Paper, Scissor Game-------------","blue"))
 shapes = ['rock','paper','scissor']
 
